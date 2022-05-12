@@ -1,0 +1,70 @@
+
+body{
+    margin: 0;
+    text-align: center;
+}
+.name{
+    margin: auto ;
+    padding-top: 100px;
+    font-family: cursive;
+    font-style: oblique;
+    padding-bottom: 20px;
+
+}
+h1{
+    color: #66BFBF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+    
+h2{
+    color: #66BFBF;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+h3{
+    color: #11999E;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.upper-container{
+    width: 100%;
+    background-color: #b4e2e2;
+    
+}
+.bottom-cloud{
+ position: absolute;
+ top: 200px;
+ left: 200px;
+}
+.top-cloud{
+    position: absolute;
+    top: 40px;
+    right: 200px;
+    
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.profile{
+    padding: 5%;
+}
+.skillimage{
+    width: 200px;
+}
+.lastcontainer{
+    height: 100px; 
+    background-color: aqua; 
+    padding-top: 20px;
+}
+.contact-me{
+    padding: 150px 450px 50px;
+}
+.btn{
+    margin: 30px;
+}
